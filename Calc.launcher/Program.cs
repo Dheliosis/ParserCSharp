@@ -10,7 +10,7 @@ namespace Calc.launcher
             Console.WriteLine("Hello World!");
             var tokens = new Tokenizer();
             var parser = new Parser();
-            parser.Parse(tokens.Tokenize("1+2"));
+            parser.Parse(tokens.Tokenize("1+2+(1+2)"));
         }
     }
 }
