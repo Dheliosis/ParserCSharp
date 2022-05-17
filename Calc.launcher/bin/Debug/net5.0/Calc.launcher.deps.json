@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calc.launcher/1.0.0": {
+        "dependencies": {
+          "Calc": "1.0.0"
+        },
+        "runtime": {
+          "Calc.launcher.dll": {}
+        }
+      },
+      "Calc/1.0.0": {
+        "runtime": {
+          "Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calc.launcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
