@@ -1,0 +1,12 @@
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\bin\Debug\net5.0\Calc.deps.json
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\bin\Debug\net5.0\Calc.dll
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\bin\Debug\net5.0\ref\Calc.dll
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\bin\Debug\net5.0\Calc.pdb
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.csproj.AssemblyReference.cache
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.AssemblyInfoInputs.cache
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.AssemblyInfo.cs
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.dll
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\ref\Calc.dll
+C:\Users\Caroline\Desktop\Csharp\Calc\Calc\obj\Debug\net5.0\Calc.pdb
